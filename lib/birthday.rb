@@ -13,5 +13,5 @@ end
 
 def age_appropriate_birthday(birthday)
   i = 0
-  while i > 
+  while i 
 end
